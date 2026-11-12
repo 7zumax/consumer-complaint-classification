@@ -1,0 +1,11 @@
+torch
+keras>=3
+transformers>=4.46
+accelerate
+scikit-learn
+pandas
+numpy
+matplotlib
+nltk
+gradio
+jupyter
